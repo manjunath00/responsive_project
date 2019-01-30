@@ -145,10 +145,28 @@ aside#sidebar {
     margin-top: 10px;
 }
 
+aside#sidebar .quote input, aside#sidebar .quote textarea {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 0px;   
+}
+
+
 /* Article */
 article#main-col {
     float: left;
     width: 65%;
+}
+
+/* services */
+
+ul#services li{
+    list-style: none;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+    background: #e6e6e6;
 }
 
 /* footer */
@@ -177,6 +195,7 @@ footer {
     margin m
     overflow ov
     min-height mih
+    list-style: lis
     border-bottom: bdb
     text-align: txl
     text-decoration: td
