@@ -53,6 +53,18 @@ header nav {
     margin-top: 10px;
 }
 
+header .highlight, header .current a {
+    color: #e8491d;
+    font-weight: bold;
+}
+
+header a:hover {
+    color: #ccc;
+    font-weight: bold;
+}
+
+
+/* showcase */
 
 
 
@@ -68,6 +80,7 @@ header nav {
     margin-top: mt
     font-family ff 
     font-size: fz
+    font-weight: fw 
     line-height lh
     background-color bgc
     width w
