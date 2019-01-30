@@ -1,7 +1,7 @@
-# responsive_project
-###My beginner responsive project
+## responsive_project
+####My beginner responsive project
 
-# Key Takeaways
+### Key Takeaways
 
 * How to apply Media Queries
 * Used git for version control
